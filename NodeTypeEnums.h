@@ -1,0 +1,4 @@
+#pragma once
+enum class NodeTypeEnums { 
+	NULLNODETYPE,SECRECT, MASK, INTERMEDIATE,PLAIN,CONSTANT
+};
